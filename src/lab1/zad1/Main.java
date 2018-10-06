@@ -7,6 +7,7 @@ public class Main {
         
         if (sprawdz(liczba1, liczba2) == true) {
             System.out.println("true");
+            System.out.println("teen");
         } else {
             System.out.println("false");
         }
